@@ -21,7 +21,7 @@ A modern, responsive appointment scheduling application built with React and Vit
 ```
 # Clone the repository (replace with your repo URL if 
 applicable)
-git clone https://github.com/virenvaghasiyaa/ResourceScheduler.git
+git clone https://github.com/virenvaghasiyaa/Resource-Scheduler.git
 cd resource-scheduler
 
 # Install dependencies
